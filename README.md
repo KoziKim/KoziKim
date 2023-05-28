@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://velog.io/@kozi" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge"/></a>
+
+![KoziKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoziKim&show_icons=true&theme=react)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kory0711)](https://solved.ac/kory0711/)

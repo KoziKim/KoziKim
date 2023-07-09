@@ -29,6 +29,9 @@
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=white"/>
 </a>
+<a href="https://emotion.sh/" target="_blank">
+  <img alt="Emotion" src="https://img.shields.io/static/v1?label=&amp;message=Emotion&amp;color=DB7093&amp;style=for-the-badge&amp;logo=emotion&amp;logoColor=white"/>
+</a>
 <a href="https://docs.python.org/3" target="_blank">
   <img alt="Python3" src="https://img.shields.io/static/v1?label=&amp;message=Python3&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>

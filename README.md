@@ -16,7 +16,7 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   -->
-  
+
 <a href="https://nextjs.org/" target="_blank">
   <img alt="Next.js" src="https://img.shields.io/static/v1?label=&amp;message=Next.js&amp;color=000000&amp;style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>
 </a>
@@ -32,7 +32,14 @@
 <a href="https://docs.python.org/3" target="_blank">
   <img alt="Python3" src="https://img.shields.io/static/v1?label=&amp;message=Python3&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>
-  
+
+<br>
+<br>
+
+  ![KoziKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoziKim&show_icons=true&theme=react)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kory0711)](https://solved.ac/kory0711/)
+
 <br>
 
 <a href="https://velog.io/@kozi" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Velog&amp;color=20C997&amp;style=for-the-badge&amp;logo=velog&amp;logoColor=white"/></a>
@@ -40,8 +47,4 @@
 
 <br>
 
-  ![KoziKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoziKim&show_icons=true&theme=react)
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kory0711)](https://solved.ac/kory0711/)
-  
   </div>

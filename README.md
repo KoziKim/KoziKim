@@ -2,6 +2,8 @@
   
   ### Hi there 👋
 
+  <br>
+  
   <!--
   **KoziKim/KoziKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +38,6 @@
   <img alt="Python3" src="https://img.shields.io/static/v1?label=&amp;message=Python3&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>
 
-<br>
 <br>
 <br>
 

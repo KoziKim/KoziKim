@@ -31,6 +31,7 @@
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=white"/>
 </a>
+<br />
 <a href="https://emotion.sh/" target="_blank">
   <img alt="Emotion" src="https://img.shields.io/static/v1?label=&amp;message=Emotion&amp;color=DB7093&amp;style=for-the-badge&amp;logo=emotion&amp;logoColor=white"/>
 </a>

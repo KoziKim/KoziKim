@@ -49,7 +49,7 @@
 <br>
 
 <a href="https://velog.io/@kozi" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Velog&amp;color=20C997&amp;style=for-the-badge&amp;logo=velog&amp;logoColor=white"/></a>
-<a href="https://gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=kory0711@gmail.com&amp;color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="mailto:kory0711@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=kory0711@gmail.com&amp;color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 
 <br>
 

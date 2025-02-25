@@ -25,18 +25,15 @@
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React.js" src="https://img.shields.io/static/v1?label=&amp;message=React.js&amp;color=61DAFB&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white"/>
 </a>
+<br />
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img alt="TypeScript" src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=3178C6&amp;style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
 </a>
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=white"/>
 </a>
-<br />
-<a href="https://emotion.sh/" target="_blank">
-  <img alt="Emotion" src="https://img.shields.io/static/v1?label=&amp;message=Emotion&amp;color=DB7093&amp;style=for-the-badge&amp;logo=emotion&amp;logoColor=white"/>
-</a>
-<a href="https://docs.python.org/3" target="_blank">
-  <img alt="Python3" src="https://img.shields.io/static/v1?label=&amp;message=Python3&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<a href="https://panda-css.com/" target="_blank">
+  <img alt="Panda CSS" src="https://img.shields.io/static/v1?label=&amp;message=Panda CSS&amp;color=FDE047&amp;style=for-the-badge"/>
 </a>
 
 <br>
